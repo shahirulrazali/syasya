@@ -196,7 +196,7 @@ html, body {
 @media(max-width: 500px) {
     .container {
         position: absolute;
-        width: 600%;
+        width: 650%;
         height: 200vh;
     }
     .header {
