@@ -83,32 +83,32 @@ html, body {
 }
 
 .block-7 {
-    background: url("picture/7.png") no-repeat 50% 50%;
+    background: url("picture/12.png") no-repeat 50% 50%;
     background-size: cover;
 }
 
 .block-8 {
-    background: url("picture/8.png") no-repeat 50% 50%;
-    background-size: cover;
-}
-
-.block-9 {
-    background: url("picture/9.png") no-repeat 50% 50%;
-    background-size: cover;
-}
-
-.block-10 {
-    background: url("picture/10.png") no-repeat 50% 50%;
-    background-size: cover;
-}
-
-.block-11 {
     background: url("picture/11.png") no-repeat 50% 50%;
     background-size: cover;
 }
 
+.block-9 {
+    background: url("picture/10.png") no-repeat 50% 50%;
+    background-size: cover;
+}
+
+.block-10 {
+    background: url("picture/9.png") no-repeat 50% 50%;
+    background-size: cover;
+}
+
+.block-11 {
+    background: url("picture/8.png") no-repeat 50% 50%;
+    background-size: cover;
+}
+
 .block-12 {
-    background: url("picture/12.png") no-repeat 50% 50%;
+    background: url("picture/7.png") no-repeat 50% 50%;
     background-size: cover;
 }
 
